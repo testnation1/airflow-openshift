@@ -7,7 +7,7 @@ from datetime import timedelta
 
 
 # Airflow can send alert emails to user if a DAG run fails. The instructions how to set the configurations
-# for the email system to work can be found in https://github.com/CSCfi/airflow-openshift/blob/master/README.md
+
 
 
 default_args = {
